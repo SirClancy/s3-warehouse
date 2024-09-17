@@ -1,0 +1,5 @@
+id	name	E-mail	Salary	occupation
+1	Joel	Joel@Athena.com	187069	Mathematician
+2	Afro	Afro@Glue.aws.in	752689	Physicist
+3	Beatles	beatles@lambda.com	975682	Algorist
+4	Snoop Dog	snoopy@apigateway.com	752689	Artificial Rapper
